@@ -1,2 +1,2 @@
 Welcome to my lab,
-username:admin and pwd:emma
+username:emma and pwd:admin
